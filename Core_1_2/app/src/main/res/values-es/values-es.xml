@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    spanish version -->
+    <string name="app_name">Lanzador de Dados</string>
+    <string name="plus">Más</string>
+    <string name="roll">Lanzar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="minus">Menos</string>
+</resources>

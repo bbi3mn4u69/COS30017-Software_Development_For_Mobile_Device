@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trình Lắc Xúc Xắc</string>
+    <string name="plus">Thêm</string>
+    <string name="roll">Lắc</string>
+    <string name="reset">Đặt Lại</string>
+    <string name="minus">Trừ</string>
+</resources>
